@@ -1,4 +1,5 @@
 import { EnergyType } from './Energy';
+import SimpleFighter from './Fighter/SimpleFighter';
 
 export default interface Fighter {
   lifePoints: number;
@@ -11,3 +12,5 @@ export default interface Fighter {
   levelUp(): void;
   receiveDamage(attackPoints: number): number;
 }
+
+export { SimpleFighter };
