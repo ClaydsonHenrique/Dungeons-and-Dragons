@@ -50,14 +50,14 @@ markdown
 
 ## Estrutura de Pastas e Arquivos
 
-trybers-and-dragons/
-├── src/
-│ ├── classes/
-│ ├── interfaces/
-│ └── index.ts
-├── package.json
-├── tsconfig.json
-└── README.md
+trybers-and-dragons/<br />
+├── src/<br />
+│ ├── classes/<br />
+│ ├── interfaces/<br />
+│ └── index.ts<br />
+├── package.json<br />
+├── tsconfig.json<br />
+└── README.md<br />
 
 
 ## Funcionalidades e Recursos
