@@ -11,65 +11,7 @@ Este é um projeto de RPG (Role Playing Game) que aplica os princípios da arqui
 
 Para iniciar o projeto, execute:
 
-
-## Tecnologias Utilizadas
-
-- TypeScript
-- Node.js
-- Outras tecnologias utilizadas...
-
-## Estrutura de Pastas e Arquivos
-
-Claro, ao criar um README para um projeto em TypeScript, você pode manter a estrutura similar a um README para projetos em JavaScript, mas incluindo informações específicas sobre o TypeScript. Aqui está um exemplo de um README para o projeto "Trybers And Dragons" usando TypeScript:
-
-markdown
-
-# Trybers And Dragons - Projeto em TypeScript
-
-Este é um projeto de RPG (Role Playing Game) que aplica os princípios da arquitetura SOLID e conceitos de Orientação a Objetos utilizando TypeScript.
-
-## Instalação
-
-1. Clone este repositório.
-2. Execute `npm install` para instalar as dependências.
-
-## Como Usar
-
-Para iniciar o projeto, execute:
-
 npm start
-
-markdown
-
-
-## Tecnologias Utilizadas
-
-- TypeScript
-- Node.js
-- Outras tecnologias utilizadas...
-
-## Estrutura de Pastas e Arquivos
-
-trybers-and-dragons/<br />
-├── src/<br />
-│ ├── classes/<br />
-│ ├── interfaces/<br />
-│ └── index.ts<br />
-├── package.json<br />
-├── tsconfig.json<br />
-└── README.md<br />
-
-
-## Funcionalidades e Recursos
-
-- Criação de classes para personagens, monstros e desafios.
-- Implementação de sistemas de batalha PVP e PVE.
-- Interação entre diferentes tipos de personagens.
-
-## Contribuição e Desenvolvimento
-
-
-
 
 <details>
   <summary><strong>🐋 Rodando no Docker vs Localmente</strong></summary><br />
@@ -101,3 +43,26 @@ trybers-and-dragons/<br />
 
   <br/>
 </details>
+## Tecnologias Utilizadas
+
+- TypeScript
+- Node.js
+- Outras tecnologias utilizadas...
+
+## Estrutura de Pastas e Arquivos
+
+trybers-and-dragons/<br />
+├── src/<br />
+│ ├── classes/<br />
+│ ├── interfaces/<br />
+│ └── index.ts<br />
+├── package.json<br />
+├── tsconfig.json<br />
+└── README.md<br />
+
+
+## Funcionalidades e Recursos
+
+- Criação de classes para personagens, monstros e desafios.
+- Implementação de sistemas de batalha PVP e PVE.
+- Interação entre diferentes tipos de personagens.
