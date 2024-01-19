@@ -1,4 +1,4 @@
-# Trybers And Dragons - Projeto em TypeScript
+# Dangeons And Dragons - Projeto em TypeScript
 
 Este é um projeto de RPG (Role Playing Game) que aplica os princípios da arquitetura SOLID e conceitos de Orientação a Objetos utilizando TypeScript.
 
